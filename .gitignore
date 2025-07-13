@@ -1,0 +1,9 @@
+build
+install
+log
+.cache
+yopo/yopo/saved
+so3_quadrotor_simulator/include/ode
+*.pyc
+**/__pycache__
+.vscode
